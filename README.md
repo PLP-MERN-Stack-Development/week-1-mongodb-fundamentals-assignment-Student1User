@@ -118,9 +118,7 @@ All queries are located in `queries.js` and grouped by task:
 
 ---
 
-## 🖼️ Screenshot
 
-> 📸 Make sure to include a screenshot (e.g., `screenshot.png`) showing your `plp_bookstore` database and the `books` collection with inserted data in MongoDB Compass or Atlas.
 
 ---
 
