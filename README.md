@@ -44,7 +44,7 @@ mongodb-week1/
 ├── insert\_books.js      # Script to populate the books collection
 ├── queries.js           # All MongoDB queries used in the assignment
 ├── README.md            # Project documentation and instructions
-├── screenshot.png       # Screenshot showing your books collection in Compass or Atlas
+
 
 ````
 
