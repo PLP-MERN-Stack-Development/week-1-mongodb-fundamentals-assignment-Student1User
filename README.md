@@ -38,18 +38,12 @@ You can choose **either of the two options**:
 ```
 
 mongodb-week1/
-│
-<<<<<<< HEAD
-├── insert\_books.js      # Script to populate the books collection
-├── queries.js           # All MongoDB queries used in the assignment
-├── README.md            # Project documentation and instructions
-├── screenshot.png       # Screenshot showing your books collection in Compass or Atlas
-=======
+
 ├── insert_books.js      # Script to populate the books collection
 ├── queries.js           # All MongoDB queries used in the assignment
 ├── README.md            # Project documentation and instructions
+=======
 
->>>>>>> c21f5c83556cdd63012aa019c033e2d779ce8765
 
 ````
 
