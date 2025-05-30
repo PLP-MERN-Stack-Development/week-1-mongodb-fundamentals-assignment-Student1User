@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-Here's a **detailed `README.md`** you can use for your MongoDB Fundamentals Week 1 assignment. It explains setup, usage, files, and how to run everything.
 
----
-
-```markdown
-=======
-
-
-
->>>>>>> c21f5c83556cdd63012aa019c033e2d779ce8765
 # 📚 MongoDB Fundamentals – Week 1 Assignment
 
 ## 🚀 Objective
